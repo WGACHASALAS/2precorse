@@ -1,2 +1,1 @@
-# 2precorse
-Este es mi primer repositorio del modulo 2 del pre curso de henry
+prueba de como crear un repositorio y clonarlo desde git hub 
